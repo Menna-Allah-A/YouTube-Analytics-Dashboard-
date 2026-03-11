@@ -1,4 +1,3 @@
-```markdown
 # YouTube Analytics Dashboard 📊
 
 A comprehensive Streamlit-based analytics dashboard that transforms YouTube channel data into actionable insights, enabling content creators to track performance metrics, compare videos, and understand audience behavior.
